@@ -2,7 +2,7 @@ title: Email required?
 description: >-
   You might be sending random people your users' data
 baseurl: ""
-url: "https:://email-required.com"
+url: "https://email-required.com"
 github_username:  PrinsFrank
 theme: minima
 plugins:
