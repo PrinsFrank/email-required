@@ -1,0 +1,9 @@
+title: Email required?
+description: >-
+  You might be sending your customers data to random people on the internet
+baseurl: ""
+url: "https:://email-required.com"
+github_username:  PrinsFrank
+theme: minima
+plugins:
+  - jekyll-feed
